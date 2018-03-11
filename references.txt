@@ -1,0 +1,12 @@
+references
+[1] https://www.mordorintelligence.com/industry-reports/wine-market
+
+[2] http://www.ukva.org.uk/about/
+
+[3]P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. 
+   Modeling wine preferences by data mining from physicochemical properties.
+   In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.
+
+[4] https://archive.ics.uci.edu/ml/datasets/wine+quality
+
+[5] Ioffe, Sergey; Christian Szegedy (2015). "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift".
