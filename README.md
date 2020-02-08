@@ -1,2 +1,2 @@
-# Machine-Learning-Project
-Machine Learning Project on using Linear Regression and Artifical Neural Networks to predict the Quality of Wines using the UCI Wine Quality Dataset
+# Predicting-Wine-Quality-by-Analysing-Physiochemical-Attributes
+An exploration into the effectiveness of linear models such as Linear Regression and more complex models such as Neural Networks, in determining the quality of wine by analysing physiochemical attributes
